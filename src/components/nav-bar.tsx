@@ -1,4 +1,4 @@
-import { MapPin, Search, ShoppingCart } from "lucide-react";
+import { Search, ShoppingCart } from "lucide-react";
 export default function NavBar(){
     return (
         <div className=" h-[30px] md:h-[60px] w-full flex bg-[#131921] items-center text-white justify-between md:space-x-4 p-1 md:p-3">
